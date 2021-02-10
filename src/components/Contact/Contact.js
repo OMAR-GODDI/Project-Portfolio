@@ -30,16 +30,16 @@ function Contact() {
           <h3 className="text-uppercase custom-title mb-0 ft-wt-600 pb-3">Don't be shy !</h3>
           <p className="open-sans-font mb-3">Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.</p>
           <p className="open-sans-font custom-span-contact position-relative">
-            <i className="fa fa-envelope-open position-absolute" />
+            <i className="fas fa-envelope-open position-absolute" />
             <span className="d-block">mail me</span>eagle.designshop@gmail.com</p>
           <p className="open-sans-font custom-span-contact position-relative">
-            <i className="fa fa-phone-square position-absolute" />
+            <i className="fas fa-phone-square position-absolute" />
             <span className="d-block">call me</span>+216 20 944 828
           </p>
           <ul className="social list-unstyled pt-1 mb-5">
-            <li className="facebook"><a title="Facebook" href="https://www.facebook.com/omar.goddi/"><i className="fa fa-facebook" /></a>
+            <li className="facebook"><a title="Facebook" href="https://www.facebook.com/omar.goddi/"><i className="fab fa-facebook-f" /></a>
             </li>
-            <li className="githup"><a title="githup" href="https://github.com/OMAR-GODDI"><i class="fab fa-github"/></a>
+            <li className="githup"><a title="githup" href="https://github.com/OMAR-GODDI"><i className="fab fa-github"/></a>
             </li>
             
            

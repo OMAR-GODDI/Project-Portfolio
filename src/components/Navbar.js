@@ -45,10 +45,10 @@ const Navbar = () => {
     <span />
     <span />
     <ul className="list-unstyled" id="menu">
-      <li className="active"><a href='/'><i className="fa fa-home" /><span>Home</span></a></li>
-      <li className="active"><a href="/about"><i className="fa fa-user" /><span>About</span></a></li>
-      <li className="active"><a href="/portfolio"><i className="fa fa-folder-open" /><span>Portfolio</span></a></li>
-      <li className="active"><a href="/contact"><i className="fa fa-envelope-open" /><span>Contact</span></a></li>
+      <li className="active"><a href='/'><i className="fas fa-home" /><span>Home</span></a></li>
+      <li className="active"><a href="/about"><i className="fas fa-user" /><span>About</span></a></li>
+      <li className="active"><a href="/portfolio"><i className="fas fa-folder-open" /><span>Portfolio</span></a></li>
+      <li className="active"><a href="/contact"><i className="fas fa-envelope-open" /><span>Contact</span></a></li>
      
     </ul>
   </div>

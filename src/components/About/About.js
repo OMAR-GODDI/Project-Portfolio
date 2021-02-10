@@ -155,7 +155,7 @@ function About() {
       <ul>
         <li>
           <div className="icon">
-            <i className="fa fa-graduation-cap" />
+            <i className="fas fa-graduation-cap" />
           </div>
           <span className="time open-sans-font text-uppercase">2020 - 2021</span>
           <h5 className="poppins-font text-uppercase">full stack Developer <span className="place open-sans-font">hight school diploma gomycode - tunisie</span></h5>
@@ -171,7 +171,7 @@ function About() {
       <ul>
         <li>
           <div className="icon">
-            <i className="fa fa-graduation-cap" />
+            <i className="fas fa-graduation-cap" />
           </div>
           <span className="time open-sans-font text-uppercase">2009 - 2014</span>
           <h5 className="poppins-font text-uppercase">Bachelor Degree <span className="place open-sans-font">high school Nabeul-Tunisie</span></h5>
