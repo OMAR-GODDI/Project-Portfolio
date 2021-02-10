@@ -95,7 +95,7 @@ hr.separator {
 
 /*** Light Body ***/
 
-body.light {
+/* body.light {
   color: #666;
   background-color: #fff;
 }
@@ -310,7 +310,7 @@ body.light hr.separator {
   body.light.portfolio .slideshow nav span.nav-prev {
     top: 31px;
   }
-}
+} */
 /*** Buttons ***/
 .btn {
   box-shadow: none !important;

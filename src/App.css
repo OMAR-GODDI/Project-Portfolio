@@ -1,5 +1,8 @@
 
+/* [ GENERAL ] */
+/*================================================== */
 
+/*** Miscellaneous ***/
 
 
 *{
@@ -7,8 +10,6 @@
   padding: 0;
   text-decoration: none;
   box-sizing: border-box;
-  
-  
 }
 
 
@@ -140,89 +141,6 @@ hr.separator {
   /*** Navigation ***/
   
 
-  .header1{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 40px 100px;
-    z-index: 1000;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-family: 'Pacifico', cursive;
-
-
-  }
-
-  .mp4{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    opacity: 0.8;
-}
-.showcase
-{
-  position: absolute;
-  right: 0;
-  width: 100%;
-  min-height: 100vh;
-  padding: 100px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  transition: 0.5s;
-  z-index: 2;
-}
-
-.overlay{
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  
-  mix-blend-mode: overlay;
-}
-
-.text{
-  position: relative;
-  z-index: 10;
-  color: #fff;
-}
-.titleName {
-  color: goldenrod;
-}
-.titleName span{
-  color: #fff;
-}
-.text h2 {
-  font-size: 4em;
-  font-weight: 800;
-  line-height: 1em;
-  text-transform: uppercase;
-  
-}
-.String{
-  font-size: 3em;
-  font-weight: 700;
-  line-height: 1em;
-  text-transform: uppercase;
-}
-.fa-linkedin  {
-  width: 35px;
-    height: 35px;
-    border-radius: 5px;
-    background: linear-gradient(45deg, #da9516, #db791d);
-    color: #fff;
-    text-align: center;
-    line-height: 35px;
-    margin-right: 2px;
-   
-}
 
 .btn-about{
   position: absolute;
@@ -367,6 +285,91 @@ hr.separator {
 
 /*** Homepage ***/
 
+
+.header1{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 40px 100px;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Pacifico', cursive;
+
+
+}
+
+.mp4{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.8;
+}
+.showcase
+{
+position: absolute;
+right: 0;
+width: 100%;
+min-height: 100vh;
+padding: 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+transition: 0.5s;
+z-index: 2;
+}
+
+.overlay{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+
+mix-blend-mode: overlay;
+}
+
+.text{
+position: relative;
+z-index: 10;
+color: #fff;
+}
+.titleName {
+color: goldenrod;
+}
+.titleName span{
+color: #fff;
+}
+.text h2 {
+font-size: 4em;
+font-weight: 800;
+line-height: 1em;
+text-transform: uppercase;
+
+}
+.String{
+font-size: 3em;
+font-weight: 700;
+line-height: 1em;
+text-transform: uppercase;
+}
+.fa-linkedin  {
+width: 35px;
+  height: 35px;
+  border-radius: 5px;
+  background: linear-gradient(45deg, #da9516, #db791d);
+  color: #fff;
+  text-align: center;
+  line-height: 35px;
+  margin-right: 2px;
+ 
+}
+/* 
 .home .color-block {
   position: fixed;
   height: 200%;
@@ -374,9 +377,9 @@ hr.separator {
   transform: rotate(-15deg);
   left: -83%;
   top: -50%;
-}
+} */
 
-.home .bg {
+/* .home .bg {
   
   background-size: cover;
   background-repeat: no-repeat;
@@ -387,13 +390,13 @@ hr.separator {
   left: 30px;
   top: 30px;
   box-shadow: 0 0 7px rgba(0,0,0,.9);
-}
+} */
 
-.home .container-home {
+/* .home .container-home {
   display: flex;
   align-items: center;
   min-height: 100%;
-}
+} */
 
 .home .home-details > div {
   max-width: 550px;

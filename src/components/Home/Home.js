@@ -8,6 +8,11 @@ function Home() {
    
     return (
     <React.Fragment>
+        {/* Main Content Starts */}
+        <div className="home">
+
+{/* Main Content Ends */}
+
         <div className="showcase">
         <div className="header1">
             <h2 className="logo">portfolio</h2>
@@ -24,16 +29,17 @@ function Home() {
             eraseDelay = {100}
         />
          
-        
+         <a href="/about" class="btn btn-about">more about me</a>
         </div>
      
-        <a href="/about" class="btn btn-about">more about me</a>
+        
      
         <ul className="social">
             <li><a href="https://www.facebook.com/omar.goddi/"><img src="https://i.ibb.co/x7P24fL/facebook.png"/></a></li>
             <li><a href="https://www.linkedin.com/in/omar-goddi-655478166/"><i className="fab fa-linkedin"></i></a></li>
            
             </ul>
+            </div>
             </div>
 
        
