@@ -37,9 +37,9 @@ function Contact() {
             <span className="d-block">call me</span>+216 20 944 828
           </p>
           <ul className="social list-unstyled pt-1 mb-5">
-            <li className="facebook"><a title="Facebook" href="https://www.facebook.com/omar.goddi/"><i className="fab fa-facebook-f" /></a>
+            <li className="facebook"><a title="Facebook" href="https://www.facebook.com/omar.goddi/" target="_blank" ><i className="fab fa-facebook-f" /></a>
             </li>
-            <li className="githup"><a title="githup" href="https://github.com/OMAR-GODDI"><i className="fab fa-github"/></a>
+            <li className="githup"><a title="githup" href="https://github.com/OMAR-GODDI" target="_blank" ><i className="fab fa-github"/></a>
             </li>
             
            

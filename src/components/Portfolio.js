@@ -88,7 +88,7 @@ const Portfolio = () => {
                     <i className="fa fa-code pr-2" /><span className="project-label">Langages </span>: <span className="ft-wt-600 uppercase">React , CSS</span>
                   </div>
                   <div className="col-6 mb-2">
-                    <i className="fa fa-external-link pr-2" /><span className="project-label">Preview </span>: <span className="ft-wt-600 uppercase"><a href="#" target="_blank">www.videohive.net</a></span>
+                    <i className="fa fa-external-link pr-2" /><span className="project-label">Preview </span>: <span className="ft-wt-600 uppercase"><a href="https://elomargoddi.herokuapp.com/" target="_blank">www.elOmarGoddi.Pfolio.com</a></span>
                   </div>
                 </div>
               </figcaption>

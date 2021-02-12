@@ -35,8 +35,8 @@ function Home() {
         
      
         <ul className="social">
-            <li><a href="https://www.facebook.com/omar.goddi/"><img src="https://i.ibb.co/x7P24fL/facebook.png"/></a></li>
-            <li><a href="https://www.linkedin.com/in/omar-goddi-655478166/"><i className="fab fa-linkedin"></i></a></li>
+            <li><a href="https://www.facebook.com/omar.goddi/"  target="_blank" > <img src="https://i.ibb.co/x7P24fL/facebook.png"/></a></li>
+            <li><a href="https://www.linkedin.com/in/omar-goddi-655478166/"  target="_blank"><i className="fab fa-linkedin"></i></a></li>
            
             </ul>
             </div>
