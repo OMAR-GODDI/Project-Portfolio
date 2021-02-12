@@ -50,7 +50,7 @@ function About() {
               </ul>
             </div>
             <div className="col-12 mt-3">
-              <a href="./img/Omar Goddi.pdf" target="./img/Omar Goddi.pdf" className="btn btn-download">Download CV</a>
+              <a href="./img/Omar Goddi.pdf" target="_blank" className="btn btn-download">Download CV</a>
             </div>
           </div>
         </div>
